@@ -1,0 +1,34 @@
+Instrucciones
+
+Ejercicio 1:
+
+1. Busca en wikipedia una página que contenga una lista no numerada  en alguna de sus secciones.
+2. Copia la sección sin formato en Brackets o en el editor que suelas utilizar. 
+3. Haz una captura de pantalla de la sección. 
+4. Intenta reproducir la captura con elementos HTML en una página llamada "replica-lista.html".
+5. Introduce los cambios de mejora que consideres oportuno (enlaces a otras páginas de Wikipedia, imágenes, elementos de estilo, etc.) y almacénalos en una página llamada "mejoras-lista.html".
+
+Ejercicio 2:
+
+Busca en internet una receta fácil.
+Copia la lista de ingredientes y las instrucciones en una página llamada "receta.html".
+La página debe contener una lista no numerada, una lista numerada, secciones y alguna imagen.
+
+Ejercicio 3:
+
+Busca en internet una página deportiva con alguna tabla de clasificación o de lista de jugadores/as y reproduce su contenido en tu propia tabla html.
+
+Normas de entrega
+
+* Entregar en fichero comprimido que incluya el nombre del alumno.
+* Si la entrega contiene varios ejercicios, organizar cada ejercicio en carpetas
+* Se deben incluir las capturas y las páginas html creadas. 
+* Incluir en comentarios, al principio de cada página, vuestro nombre y la dirección de la página de internet que se ha utilizado en cada caso.
+
+Requerimientos
+
+* Todos los caracteres especiales se deben mostrar codificados (acentos, símbolos...).
+* Todos los ejercicios tienes que estar validados por la página https://validator.w3.org/. Podéis instalar en Brackets la extensión que hace la validación W3CValidation.
+* Todos los ejercicios deben tener un código legible y formateado. Podéis utilizar para ello la extensión de Brackets, Beautify.
+* Es recomendable comentar el código para facilitar su comprensión.
+* Utilizar los elementos y atributos que mejoren la accesibilidad donde sea posible.

@@ -1,0 +1,13 @@
+h2{
+    margin: 0 auto;
+    font-weight: normal;
+}
+
+a{
+    font-style: italic;
+    text-decoration: none;
+}
+
+li{
+  padding: 0.1em;  
+}
